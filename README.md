@@ -8,13 +8,16 @@ and/or finishing a level quickly!
 
 TO OPEN GAME
 
-Download the ZIP. Unzip the ZIP.
+Download the ZIP (MAC, WIN INTEL, or WIN ARM).
+
+Extract.
 
 MAC: Open file "Play Just Keep Rolling MAC"
 
-WINDOWS INTEL: Open file "Play Just Keep Rolling WIN INTEL"
+WINDOWS INTEL: Open file "Play Just Keep Rolling WIN INTEL.exe"
 
 WINDOWS ARM: Open file "Play Just Keep Rolling WIN ARM"
+
 
 
 
