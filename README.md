@@ -35,8 +35,9 @@ instead of the mouse.
 
 *Can't finish a level?*
 
-Click L after at least 20 restarts to
-skip to the next level.
+You can do it! But if you're tired,
+you may click L after at least 20
+restarts to skip to the next level.
 
 *Stuck?*
 
