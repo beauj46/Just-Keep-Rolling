@@ -6,17 +6,12 @@ Try to get the highest score by
 not falling, collecting coins,
 and/or finishing a level quickly!
 
-
 TO OPEN GAME
 
 Download the ZIP. Unzip the ZIP.
-
 MAC: Open file "Play Just Keep Rolling MAC"
-
 WINDOWS INTEL: Open file "Play Just Keep Rolling WIN INTEL"
-
 WINDOWS ARM: Open file "Play Just Keep Rolling WIN ARM"
-
 
 
 INFO AND CONTROLS:
@@ -38,4 +33,10 @@ instead of the mouse.
 
 Click L after at least 20 restarts to
 skip to the next level.
+
+*Stuck?*
+
+Press R to respawn.
+
+*Got a power up?*
 
