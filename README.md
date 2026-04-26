@@ -20,7 +20,6 @@ WINDOWS ARM: Open file "Play Just Keep Rolling WIN ARM"
 
 
 
-
 INFO AND CONTROLS:
 
 *Default controls*
@@ -47,4 +46,8 @@ restarts to skip to the next level.
 Press R to respawn.
 
 *Got a power up?*
+
+Click spacebar to use it!
+
+
 
