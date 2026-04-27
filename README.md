@@ -1,7 +1,7 @@
 GO TO RELEASES TO DOWNLOAD! ----->
 
 Just Keep Rolling
-By Beau, Kenny, and Clark
+By Beau, Clark, Kenny
 
 Play levels as a rolling ball! 
 Try to get the highest score by
@@ -14,11 +14,11 @@ Download the ZIP (MAC, WIN INTEL, or WIN ARM).
 
 Extract.
 
-MAC: Open file "Play Just Keep Rolling MAC"
+MAC: Open file "Just Keep Rolling MAC"
 
-WINDOWS INTEL: Open file "Play Just Keep Rolling WIN INTEL.exe"
+WINDOWS INTEL: Open file "Just Keep Rolling.exe"
 
-WINDOWS ARM: Open file "Play Just Keep Rolling WIN ARM"
+WINDOWS ARM: Open file "Just Keep Rolling.exe"
 
 
 
@@ -39,15 +39,13 @@ instead of the mouse.
 
 *Can't finish a level?*
 
-You can do it! But if you're tired,
-you may click L after at least 20
-restarts to skip to the next level.
+Click L to skip to the next level.
 
 *Stuck?*
 
 Press R to respawn.
 
-*Got a power up?*
+*Got a jump power up?*
 
 Click spacebar to use it!
 
